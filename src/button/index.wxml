@@ -1,0 +1,3 @@
+<button class="el-button el-button--{{type}}{{plain?' is-plain':''}}{{round?' is-round':''}}{{cicle?' is-cicle':''}}{{loading?' is-loading':''}}{{disabled?' is-disabled':''}}">
+    <slot></slot>
+</button>

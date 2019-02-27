@@ -1,0 +1,4 @@
+<view class="air-logo">
+    <image class="air-logo--img" src="../../asserts/images/air.jpg" />
+</view>
+<air-button   disabled="true">测试</air-button>

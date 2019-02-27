@@ -1,0 +1,9 @@
+/* page {
+  background: #f9f9f9;
+  font-size: 30rpx;
+} */
+
+
+.el-view {
+  color:red!important
+}
